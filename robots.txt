@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# REEMPLAZAR por el dominio definitivo
+Sitemap: https://www.ecoprot26.mx/sitemap.xml

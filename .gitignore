@@ -1,0 +1,38 @@
+# =========================================================
+# .gitignore · Landing page consultora ambiental
+# Solo se sube la estructura del proyecto (HTML, CSS, JS,
+# Bootstrap, fuentes, logotipo e ilustraciones provisionales).
+# =========================================================
+
+# ---------- Fotografías del cliente ----------
+# Todas las fotos del sitio están en WebP dentro de assets/img/
+assets/img/*.webp
+# La imagen para redes sociales se generó con una foto del cliente
+assets/img/og-image.png
+# Originales o fotos sin optimizar, donde sea que estén
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.heic
+*.HEIC
+*.mp4
+*.MP4
+*.zip
+*.webp
+
+# ---------- Documentos del cliente ----------
+# Plan estratégico y cualquier otro documento de trabajo
+*.docx
+*.doc
+*.odt
+*.pdf
+
+# ---------- Sistema operativo y editor ----------
+*~
+.~lock.*#
+.directory
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

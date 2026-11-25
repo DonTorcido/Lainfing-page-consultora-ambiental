@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- REEMPLAZAR: dominio definitivo en todas las URL -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.ecoprot26.mx/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <image:image><image:loc>https://www.ecoprot26.mx/assets/img/presa-canadas-vegetacion.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.ecoprot26.mx/assets/img/supervision-reforestacion-arbol.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.ecoprot26.mx/assets/img/rescate-flora-biznagas.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.ecoprot26.mx/assets/img/rescate-fauna-culebra.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.ecoprot26.mx/assets/img/supervision-ambiental-reforestacion.webp</image:loc></image:image>
+  </url>
+</urlset>

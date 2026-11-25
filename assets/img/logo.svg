@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 48" role="img" aria-label="ECOPROT26">
+<g><rect x="2" y="2" width="44" height="44" rx="12" fill="#17603F"/>
+<path d="M12 14 H36 V34 H24 M12 14 V34 H18 V22 H30 V28" fill="none" stroke="#F6F4EC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 34 C24 27 29 24 35 24 C35 31 30 34 24 34 Z" fill="#C9A227"/></g>
+<text x="58" y="27" font-family="Poppins, Arial, sans-serif" font-weight="700" font-size="21" letter-spacing="0.5" fill="#0E3B2C">ECOPROT<tspan fill="#C9A227">26</tspan></text>
+<text x="59" y="42" font-family="Inter, Arial, sans-serif" font-weight="500" font-size="9.5" letter-spacing="1.6" fill="#17603F">CONSULTORÍA AMBIENTAL</text>
+</svg>
